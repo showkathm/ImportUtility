@@ -1,0 +1,12 @@
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\bin\Debug\ATTS.DataReader.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\bin\Debug\ATTS.DataReader.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.FileDataReader.csprojResolveAssemblyReference.cache
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.DataReader.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.DataReader.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.FileDataReader.csproj.ResolveComReference.cache
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\bin\Debug\ATTS.DataReader.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\bin\Debug\ATTS.DataReader.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.FileDataReader.csproj.ResolveComReference.cache
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.DataReader.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.DataReader.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataReader\obj\Debug\ATTS.FileDataReader.csprojResolveAssemblyReference.cache

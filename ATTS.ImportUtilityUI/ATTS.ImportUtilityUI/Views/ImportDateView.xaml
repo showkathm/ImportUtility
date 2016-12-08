@@ -1,0 +1,53 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATTS.ImportUtilityUI.Views"
+        xmlns:ViewModels="clr-namespace:ATTS.ImportUtilityUI.ViewModels" x:Class="ATTS.ImportUtilityUI.Views.ImportDateView"
+        mc:Ignorable="d"
+        Title="ATTS Data Import developed by Showkath"
+        Height="300"
+        Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" SizeToContent="Height">
+    <Window.DataContext>
+        <ViewModels:ImportDateViewModel/>
+    </Window.DataContext>
+    <StackPanel Margin="10">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Path" />
+            <TextBox Text="{Binding Path}" Grid.Row="0" Grid.Column="1"  />
+            <Button Command="{Binding DisplayFileDialogCommand}" Content="..." Grid.Row="0" Grid.Column="2" />
+
+            <CheckBox IsChecked="{Binding FirstRowIsHeader}" Content="First row is header" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" />
+            <Button  Command="{Binding DoImportCommand}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Content="Import" HorizontalAlignment="Right" />
+        </Grid>
+
+        <StackPanel Margin="0,10" Visibility="{Binding ShowImportProgress, Converter={StaticResource BoolToVis}}">
+            <ProgressBar Minimum="0" Maximum="{Binding NumberOfRows}" Value="{Binding CurrentRow}" Height="15" />
+            <TextBlock Margin="0,2,0,3">
+                <Run Text="Processing row" />
+                <Run Text="{Binding CurrentRow}" />
+                <Run Text="of" />
+                <Run Text="{Binding NumberOfRows}" />
+                <Run Text="(" /><Run Text="{Binding FailedRowsCount}" FontWeight="Bold" Foreground="Red" />
+                <Run Text="failed)" />
+            </TextBlock>
+            <Separator />
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="100">
+                <ItemsControl ItemsSource="{Binding Errors}" >
+                
+                </ItemsControl>
+            </ScrollViewer>
+        </StackPanel>
+    </StackPanel>
+</Window>

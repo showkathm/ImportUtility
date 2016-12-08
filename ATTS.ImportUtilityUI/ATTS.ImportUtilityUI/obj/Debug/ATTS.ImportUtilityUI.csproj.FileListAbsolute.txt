@@ -1,0 +1,48 @@
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.exe.config
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.exe
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataReader.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataReader.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.csprojResolveAssemblyReference.cache
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\Views\ImportDateView.g.cs
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\App.g.cs
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI_MarkupCompile.cache
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI_MarkupCompile.lref
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\Views\ImportDateView.baml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.g.resources
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.Properties.Resources.resources
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.csproj.GenerateResource.Cache
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.exe
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataAccess.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataAccess.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.xml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\App.baml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.exe.config
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.exe
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.exe
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.ImportUtilityUI.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataAccess.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataReader.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataAccess.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\ATTS.DataReader.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.xml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.csprojResolveAssemblyReference.cache
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\Views\ImportDateView.g.cs
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\App.g.cs
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI_MarkupCompile.cache
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI_MarkupCompile.lref
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\App.baml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\Views\ImportDateView.baml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.g.resources
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.Properties.Resources.resources
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.ImportUtilityUI\obj\Debug\ATTS.ImportUtilityUI.csproj.GenerateResource.Cache

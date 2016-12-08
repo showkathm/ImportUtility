@@ -1,0 +1,20 @@
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.dll.config
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.pdb
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.xml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.csprojResolveAssemblyReference.cache
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.dll
+C:\Development\C# Testing\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.dll.config
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\ATTS.DataAccess.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.dll
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.pdb
+C:\Users\showkath\Desktop\wpf\ATTS\ATTS\ATTS.ImportUtilityUI\ATTS.DataAccess\obj\Debug\ATTS.DataAccess.csprojResolveAssemblyReference.cache
